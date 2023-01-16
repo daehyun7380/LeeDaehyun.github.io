@@ -1,0 +1,56 @@
+*{
+    letter-spacing: -1px;
+    
+}
+.container{
+width: 100%;
+max-width: 50rem;
+margin: 0px auto;
+padding-bottom: 30rem;
+}
+.introductionH2{
+font-size: 4rem;
+}
+.mainparagraph{
+font-size: 2rem;
+font-weight:600;
+
+}
+h3{
+font-size: 2rem;
+}
+.row{
+display: flex;
+}
+.row-left{
+width: 50%;
+}
+h2{
+color: rgb(178, 227, 247);
+font-size: 3rem;
+}
+
+.row-right{
+width: 50%;
+}
+
+li{
+padding: 3px;
+}
+.introduce>h3{
+font-size: 2rem;
+}
+.first_para{
+width: 100%;
+
+}
+p{
+font-size: 19px;
+line-height: 1.5;
+}
+.overall{
+font-size: 17px;
+}
+section{
+padding-bottom: 15px;
+}
